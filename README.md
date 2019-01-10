@@ -1,2 +1,2 @@
-# audio_classification_deep_learning
+# Audio-Classification-using-CNN-MLP
 Multi class audio classification using Deep Learning (CNN, MLP)
