@@ -5,11 +5,14 @@
 This project has two objectives. The first objective is to train and test four neural networks: one ANN and one ConvNet that classify images and one ANN and one ConvNet that classify audio samples. The second objective is to compare the performance of ANNs and ConvNets on images and audio samples.
 
 
+
 |            | Bee           | No Bee        | Total |
 |-----| ------------- |:-------------:| -----:|
-|Test   | 19,082         | 19,057        | 38,139 | 
-|Train  | 6,362      | 6,362      | 12,724 |  
+|Train   | 19,082         | 19,057        | 38,139 | 
+|Test  | 6,362      | 6,362      | 12,724 |  
 |       | 25,444 | 25,419     |    50,863 |
+
+
 
 ![alt text](https://raw.githubusercontent.com/vishalshar/Audio-Classification-using-CNN-MLP/master/img/ann_images.png)
 ![alt text](https://raw.githubusercontent.com/vishalshar/Audio-Classification-using-CNN-MLP/master/img/cnn_images.png)
