@@ -2,7 +2,8 @@
 ## Multi class audio classification using Deep Learning (CNN, MLP)
 
 ### Project Objectives: 
-This project has two objectives. The first objective is to train and test four neural networks: one ANN and one ConvNet that classify images and one ANN and one ConvNet that classify audio samples. The second objective is to compare the performance of ANNs and ConvNets on images and audio samples.
+The objective of this project is to build a multi class classifier to identify sound
+of a bee, cricket or noise.
 
 
 
