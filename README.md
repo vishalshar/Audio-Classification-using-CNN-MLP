@@ -15,7 +15,7 @@ Given dataset contains total of 9,914 audio sample, where 3,300 belongs to Bee, 
 |        | 3,300      | 3,500     |    3,114 | 9,914 |
 
 
-###Audio Data Preprocessing:
+### Audio Data Preprocessing:
 
 Audio dataset given has very high frame rate, on an average every file had 80,000 frames (amplitude/sec). With frames/sec being so high we have a lot of data and it needs some preprocessing. Reduction of audio frame rate and length was performed using interpolation technique. The audio sample was reduced to 15k sample and total length of 22,000 (approximately 1/4 reduction of the given audio).
 
