@@ -18,6 +18,7 @@ Given dataset contains total of 9,914 audio sample, where 3,300 belongs to Bee, 
 ### Audio Data Preprocessing:
 
 Audio dataset given has very high frame rate, on an average every file had 80,000 frames (amplitude/sec). With frames/sec being so high we have a lot of data and it needs some preprocessing. Reduction of audio frame rate and length was performed using [interpolation technique](https://scikit-learn.org/stable/auto_examples/linear_model/plot_polynomial_interpolation.html). The audio sample was reduced to 15k sample and total length of 22,000 (approximately 1/4 reduction of the given audio).
+![alt text](https://raw.githubusercontent.com/vishalshar/Audio-Classification-using-CNN-MLP/master/img/audio_preprocessing-1.png)
 
 
 ### Using CNN
@@ -37,7 +38,6 @@ Training was done for 500 epochs using Adaptive Moment Estimation (adam) as opti
 
 
 
-![alt text](https://raw.githubusercontent.com/vishalshar/Audio-Classification-using-CNN-MLP/master/img/audio_preprocessing-1.png)
 ![alt text](https://raw.githubusercontent.com/vishalshar/Audio-Classification-using-CNN-MLP/master/img/ANN_Net_2-1.png)
 ![alt text](https://raw.githubusercontent.com/vishalshar/Audio-Classification-using-CNN-MLP/master/img/CNN_Net-1.png)
 ![alt text](https://raw.githubusercontent.com/vishalshar/Audio-Classification-using-CNN-MLP/master/img/audio_graph-1.png)
