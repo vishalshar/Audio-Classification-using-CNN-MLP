@@ -59,6 +59,8 @@ A network using Convolution layers was used to build classifier, network archite
 data model was not able to generalize well between bee and noise data. Adding downsampling technique helped the
 model in generalization.
 
+![alt text](https://raw.githubusercontent.com/vishalshar/Audio-Classification-using-CNN-MLP/master/img/CNN_Net-1.png)
+
 #### Performance: 
 
 Training was done for 500 epochs using Adaptive Moment Estimation (adam) as optimizer with learning rate of 0.0001. 
@@ -67,9 +69,6 @@ Training was done for 500 epochs using Adaptive Moment Estimation (adam) as opti
 |            | Training           | Testing        |
 |-----| ------------- |:-------------:|
 |Accuracy   | 99.88%      | 99.45%       |
-
-
-![alt text](https://raw.githubusercontent.com/vishalshar/Audio-Classification-using-CNN-MLP/master/img/CNN_Net-1.png)
 
 #### Accuracy
 
