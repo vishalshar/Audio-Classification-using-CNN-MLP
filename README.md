@@ -59,7 +59,7 @@ A network using Convolution layers was used to build classifier, network archite
 data model was not able to generalize well between bee and noise data. Adding downsampling technique helped the
 model in generalization.
 
-![alt text](https://raw.githubusercontent.com/vishalshar/Audio-Classification-using-CNN-MLP/master/img/CNN_Net-1.png)
+![alt text](https://raw.githubusercontent.com/vishalshar/Audio-Classification-using-CNN-MLP/master/img/CNN_Net-1_compress.png)
 
 #### Performance: 
 
