@@ -73,3 +73,4 @@ Training was done for 500 epochs using Adaptive Moment Estimation (adam) as opti
 #### Accuracy
 
 ![alt text](https://raw.githubusercontent.com/vishalshar/Audio-Classification-using-CNN-MLP/master/img/bee_cnn_audio.png)
+[![HitCount](http://hits.dwyl.com/vishalshar/awesome_ML_AI_RSS_feed.svg)](http://hits.dwyl.com/vishalshar/awesome_ML_AI_RSS_feed)
