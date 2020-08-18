@@ -77,6 +77,7 @@ Training was done for 500 epochs using Adaptive Moment Estimation (adam) as opti
 
 #### Citation
 If you find this project helpful, please cite as below:
+'''
 @software{vishal_sharma_2020_3988690,
   author       = {Vishal Sharma},
   title        = {{vishalshar/Audio-Classification-using-CNN-MLP: 
@@ -88,3 +89,4 @@ If you find this project helpful, please cite as below:
   doi          = {10.5281/zenodo.3988690},
   url          = {https://doi.org/10.5281/zenodo.3988690}
 }
+'''
