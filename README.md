@@ -74,3 +74,17 @@ Training was done for 500 epochs using Adaptive Moment Estimation (adam) as opti
 
 ![alt text](https://raw.githubusercontent.com/vishalshar/Audio-Classification-using-CNN-MLP/master/img/bee_cnn_audio.png)
 [![HitCount](http://hits.dwyl.com/vishalshar/awesome_ML_AI_RSS_feed.svg)](http://hits.dwyl.com/vishalshar/awesome_ML_AI_RSS_feed)
+
+#### Citation
+If you find this project helpful, please cite as below:
+@software{vishal_sharma_2020_3988690,
+  author       = {Vishal Sharma},
+  title        = {{vishalshar/Audio-Classification-using-CNN-MLP: 
+                   first release}},
+  month        = aug,
+  year         = 2020,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.3988690},
+  url          = {https://doi.org/10.5281/zenodo.3988690}
+}
