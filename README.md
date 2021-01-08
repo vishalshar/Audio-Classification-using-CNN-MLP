@@ -3,7 +3,21 @@
 
 [![DOI](https://zenodo.org/badge/156245544.svg)](https://zenodo.org/badge/latestdoi/156245544)
 
-
+#### Citation
+If you find this project helpful, please cite as below:
+```
+@software{vishal_sharma_2020_3988690,
+  author       = {Vishal Sharma},
+  title        = {{vishalshar/Audio-Classification-using-CNN-MLP: 
+                   first release}},
+  month        = Aug,
+  year         = 2020,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.3988690},
+  url          = {https://doi.org/10.5281/zenodo.3988690}
+}
+```
 
 ### Project Objectives: 
 The objective of this project is to build a multi class classifier to identify sound
